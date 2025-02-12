@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "UX review presentations",
+    "content": "How do you create compelling presentations that wow your colleagues and impress your managers? Look no further. How do you create compelling presentations that wow your colleagues and impress your managers? Look no further. How do you create compelling presentations that wow your colleagues and impress your managers? Look no further.",
+    "author": "Olivia Rhye",
+    "date": "20 Jan 2022",
+    "image": "https://source.unsplash.com/random/900x300?person",
+    "category": "Keyboards",
+    "tags": ["65%"]
+  },
+  {
+    "id": 2,
+    "title": "Best books on scaling your startup",
+    "content": "This collection of the best startup books for scaling your startup are packed full with valuable insights and advice.",
+    "author": "Phoenix Baker",
+    "date": "19 Jan 2022",
+    "image": "https://source.unsplash.com/random/400x200?books",
+    "category": "Switches",
+    "tags": ["TKL"]
+  },
+  {
+    "id": 3,
+    "title": "Third Post",
+    "content": "The third post is about something completely different. Let's explore.",
+    "author": "Lana Del Rey",
+    "date": "18 Jan 2022",
+    "image": "https://source.unsplash.com/random/400x200?nature",
+    "category": "Stabilizers",
+    "tags": ["100%"]
+  },
+    {
+    "id": 4,
+    "title": "A Guide to Mindful Living",
+    "content": "Discover the power of mindfulness and how it can transform your daily life. Learn practical techniques to reduce stress and enhance well-being.",
+    "author": "Ethan Woods",
+    "date": "17 Jan 2022",
+    "image": "https://source.unsplash.com/random/400x200?mindfulness",
+    "category": "Accessories",
+     "tags": ["75%"]
+  },
+  {
+    "id": 5,
+    "title": "The Future of Remote Work",
+    "content": "Explore the evolving landscape of remote work, its benefits, challenges, and how companies can adapt to this new paradigm.",
+    "author": "Aria Patel",
+    "date": "16 Jan 2022",
+    "image": "https://source.unsplash.com/random/400x200?remote-work",
+    "category": "Keyboards",
+    "tags": ["60%"]
+  }
+]
